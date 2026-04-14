@@ -48,4 +48,4 @@ I am learning how to use JS objects to store complex/related data
     ```
 
 # Example and Exercises
-Complete all the tasks label as ```// TODO: ...``` in the comments in ```script.js```
+Complete all the tasks labeled as ```// TODO: ...``` in the comments in ```script.js```
